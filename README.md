@@ -2,14 +2,15 @@
 
 Sviluppatore **full-stack junior**, con background nel settore **retail** e una forte passione per il mondo della **programmazione web**.
 
-Attualmente sto seguendo un percorso di formazione come **web developer**: dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e Laravel**.  
+Attualmente sto seguendo un percorso di formazione come **web developer**: 
+dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e Laravel**.  
 Nel tempo libero coltivo **bonsai** 🌱 — un’arte che mi ha insegnato pazienza, costanza e cura nei dettagli… proprio come il codice!
 
 ---
 
 ## 🛠️ Competenze Tecniche
 
-### 🎨 Frontend
+### 💻 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,12 +22,17 @@ Nel tempo libero coltivo **bonsai** 🌱 — un’arte che mi ha insegnato pazie
 
 ---
 
-### 🔧 Backend
+### ⚙️ Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 🧰 Altri Strumenti
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -49,4 +55,5 @@ Nel tempo libero coltivo **bonsai** 🌱 — un’arte che mi ha insegnato pazie
 
 ## 🌿 Curiosità
 
-Mi appassionano i **bonsai**: una pratica che affianca arte e tecnica, e che considero simile allo sviluppo software — richiede **pazienza**, **precisione** e una **visione a lungo termine**.
+Mi appassionano i **bonsai**: una pratica che affianca arte e tecnica, 
+e che considero simile allo sviluppo software — richiede **pazienza**, **precisione** e una **visione a lungo termine**.
