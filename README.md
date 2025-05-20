@@ -1,4 +1,5 @@
 # 👋 Ciao, sono Davide
+👨‍💻 Junior Full-Stack Developer | Laravel • PHP • Tailwind • MySQL • React  
 
 Sviluppatore **full-stack junior**, con background nel settore **retail** e una forte passione per il mondo della **programmazione web**.
 
@@ -30,19 +31,17 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 
 ---
 
-### 🧰 Altri Strumenti
+## 🧰 Strumenti & Dev Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌱 Attualmente Sto Studiando
-
-- Laravel avanzato e best practices  
-- API REST e architettura modulare  
-- Deploy con Docker e CI/CD  
-- React e frontend moderni (per futura integrazione)  
+## 📚 Cosa Sto Studiando 
+![Laravel](https://img.shields.io/badge/Laravel%20Avanzato-red?style=flat-square&logo=laravel&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-007ACC?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker%20CI%2FCD-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -52,7 +51,7 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 
 ---
 
-## 🌿 Curiosità
+## 🌱 Curiosità
 
 Mi appassionano i **bonsai**  
   una pratica che affianca arte e tecnica,   
