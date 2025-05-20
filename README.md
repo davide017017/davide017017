@@ -55,6 +55,6 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 ## 🌿 Curiosità
 
 Mi appassionano i **bonsai**  
-  una pratica che affianca arte e tecnica, 
-  e che considero simile allo sviluppo software 
+  una pratica che affianca arte e tecnica,   
+  e che considero simile allo sviluppo software   
   — richiede **pazienza**, **precisione** e una **visione a lungo termine**.
