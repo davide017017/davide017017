@@ -10,7 +10,7 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 
 ## 🏅 Certificazioni
 
-[![HTML & CSS Certification](https://img.shields.io/badge/Certiport-HTML%20%26%20CSS%20Certified-blue?logo=html5&logoColor=white)](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e "Verifica certificato su Credly")
+[![HTML & CSS Certification](https://images.credly.com/size/340x340/images/85b3a15b-32bc-4021-9b61-4a1816bda779/image.png)](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e "Verifica certificato su Credly")
 
 - **HTML & CSS Certified** – Certiport  
   [Verifica su Credly](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e)  
