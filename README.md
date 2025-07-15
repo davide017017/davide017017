@@ -8,6 +8,16 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 
 ---
 
+## 🏅 Certificazioni
+
+[![HTML & CSS Certification](https://img.shields.io/badge/Certiport-HTML%20%26%20CSS%20Certified-blue?logo=html5&logoColor=white)](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e "Verifica certificato su Credly")
+
+- **HTML & CSS Certified** – Certiport  
+  [Verifica su Credly](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e)  
+  Ottenuta: Luglio 2025
+  
+---
+
 ## 🛠️ Competenze Tecniche
 
 ### 💻 Frontend
