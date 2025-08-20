@@ -1,4 +1,4 @@
----
+
 # 👋 Ciao, sono Davide
 👨‍💻 Junior Full-Stack Developer | Laravel • PHP • Tailwind • MySQL • React  
 
@@ -9,7 +9,7 @@ Sviluppatore **full-stack junior**, con background nel settore **retail** e una 
 Attualmente sto seguendo un percorso di formazione come **web developer**:    
 dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e Laravel**.  
 
----
+
 
 ## 🏅 Certificazioni
 
