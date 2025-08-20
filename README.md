@@ -1,5 +1,8 @@
+---
 # 👋 Ciao, sono Davide
 👨‍💻 Junior Full-Stack Developer | Laravel • PHP • Tailwind • MySQL • React  
+
+[![Portfolio Live](https://img.shields.io/badge/Portfolio-Live%20site-2ecc71?style=for-the-badge&logo=netlify&logoColor=white)](https://davide-martinico-portfolio.netlify.app/)
 
 Sviluppatore **full-stack junior**, con background nel settore **retail** e una forte passione per il mondo della **programmazione web**.
 
@@ -11,7 +14,6 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 ## 🏅 Certificazioni
 
 [![HTML & CSS Certified](./assets/it-specialist-html-and-css.png)](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e/public_url "Verifica certificato su Credly")
-
 
 - **HTML & CSS Certified** – Certiport  
   [Verifica su Credly](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e)  
@@ -58,6 +60,7 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 
 ## 📫 Contatti
 
+🌐 **Portfolio** → <https://davide-martinico-portfolio.netlify.app/>  
 ✉️ **Email** → [davide017@hotmail.it](mailto:davide017@hotmail.it)
 
 ---
