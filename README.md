@@ -25,7 +25,15 @@ e nell’evoluzione del mio stack.
 
 - **HTML & CSS Certified** – Certiport  
   [Verifica su Credly](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e)  
-  Ottenuta: Luglio 2025
+  Ottenuta: Luglio 2025  
+
+---
+
+[![JavaScript Certified](./assets/it-specialist-javascript.png)](https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c/public_url "Verifica certificato su Credly")
+
+- **JavaScript Certified** – Certiport  
+  [Verifica su Credly](https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c)  
+  Ottenuta: Dicembre 2025
   
 ---
 
