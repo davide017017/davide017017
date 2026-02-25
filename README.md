@@ -1,15 +1,23 @@
 
 # 👋 Ciao, sono Davide
-👨‍💻 Junior Full-Stack Developer | Laravel • PHP • Tailwind • MySQL • React  
+👨‍💻 Full-Stack Developer (PHP • MySQL • JavaScript • APIs • Cron Jobs • Git)
 
 [![Portfolio Live](https://img.shields.io/badge/Portfolio-Live%20site-2ecc71?style=for-the-badge&logo=netlify&logoColor=white)](https://davide-martinico-portfolio.netlify.app/)
 
-Sviluppatore **full-stack junior**, con background nel settore **retail** e una forte passione per il mondo della **programmazione web**.
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/davide017017)
 
-Attualmente sto seguendo un percorso di formazione come **web developer**:    
-dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e Laravel**.  
+Sviluppatore full-stack focalizzato su backend PHP e integrazioni API,
+con esperienza nella gestione di sistemi multi-tenant e database MySQL.
 
+I miei punti di forza:
+• logiche backend solide  
+• integrazioni e automazioni (API, cron jobs)  
+• attenzione a performance e idempotenza  
+• codice leggibile e manutenibile  
 
+Affronto ogni progetto con mentalità analitica e orientata alla crescita,
+investendo costantemente tempo nello studio di nuove tecnologie
+e nell’evoluzione del mio stack.
 
 ## 🏅 Certificazioni
 
@@ -41,20 +49,66 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python (Base)](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🧰 Strumenti & Dev Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+## 🚀 Progetti
+
+### 🧠 Synapsy
+App di gestione finanze personali (Next.js + Laravel API)  
+• CRUD transazioni  
+• KPI mensili  
+• PWA in sviluppo  
+
+### 🏨 HopySuite
+Piattaforma multi-tenant per hospitality  
+• PHP + MySQL  
+• Integrazioni API (Guesty, OwnerRez, Twilio)  
+• Architettura cron master/worker  
+
+### 🐙 OctoMind
+GitHub API Explorer  
+• FastAPI  
+• Bootstrap frontend  
+• Deploy su Render + Netlify
 
 ---
 
-## 📚 Cosa Sto Studiando 
-![Laravel](https://img.shields.io/badge/Laravel%20Avanzato-red?style=flat-square&logo=laravel&logoColor=white)
-![API REST](https://img.shields.io/badge/API%20REST-007ACC?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker%20CI%2FCD-2496ED?style=flat-square&logo=docker&logoColor=white)
+## 🔭 Focus Attuale
+
+### 💼 In ambito lavorativo
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![APIs](https://img.shields.io/badge/API%20Integration-007ACC?style=flat-square)
+![Cron Jobs](https://img.shields.io/badge/Cron%20Automation-6c757d?style=flat-square)
+
+• Backend PHP su sistemi multi-tenant  
+• Integrazioni API e automazioni  
+• Ottimizzazione database MySQL  
+• Architettura cron / processi backend  
+
+---
+
+### 📚 In studio e sperimentazione
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20Design-007ACC?style=flat-square)
+![Architecture](https://img.shields.io/badge/Scalable%20Architecture-343a40?style=flat-square)
+
+• Python e FastAPI  
+• Progettazione REST API  
+• Architetture modulari e scalabili  
 
 ---
 
@@ -65,9 +119,14 @@ dopo aver studiato il **frontend**, mi sto concentrando sul **backend con PHP e 
 
 ---
 
-## 🌱 Curiosità
+## 🌱 Filosofia
 
-Mi appassionano i **bonsai**  
-  una pratica che affianca arte e tecnica,   
-  e che considero simile allo sviluppo software   
-  — richiede **pazienza**, **precisione** e una **visione a lungo termine**.
+Mi appassionano i bonsai.
+Una disciplina che unisce arte e tecnica —
+proprio come il software.
+
+Entrambi richiedono:
+• pazienza  
+• cura dei dettagli  
+• visione a lungo termine  
+• miglioramento continuo
