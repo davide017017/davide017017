@@ -82,28 +82,54 @@ e nell’evoluzione del mio stack.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 ---
+
+
 ## 🚀 Progetti
 
+<table>
+  <tr>
+    <td width="33%" valign="top" align="left">
+
 ### 🧠 Synapsy
-App di gestione finanze personali (Next.js + Laravel API)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Laravel API](https://img.shields.io/badge/Laravel%20API-F55247?style=flat-square&logo=laravel&logoColor=white)
+
+App di gestione finanze personali  
 • CRUD transazioni  
 • KPI mensili  
 • PWA in sviluppo  
+    </td>
+    <td width="33%" valign="top" align="left">
 
 ### 🏨 HopySuite
-Piattaforma multi-tenant per hospitality  
-• PHP + MySQL  
-• Integrazioni API (Guesty, OwnerRez, Twilio)  
-• Architettura cron master/worker  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+Piattaforma multi-tenant  
+• Integrazioni API  
+• Automazioni cron  
+• Architettura master/worker  
+    </td>
+    <td width="33%" valign="top" align="left">
 
 ### 🐙 OctoMind
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 GitHub API Explorer  
-• FastAPI  
-• Bootstrap frontend  
-• Deploy su Render + Netlify
+• Backend Python  
+• UI Bootstrap  
+• Deploy Render  
+    </td>
+  </tr>
+</table>
+
 
 ---
+
 
 ## 🔭 Focus Attuale
 
