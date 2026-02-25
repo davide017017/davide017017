@@ -19,23 +19,38 @@ Affronto ogni progetto con mentalità analitica e orientata alla crescita,
 investendo costantemente tempo nello studio di nuove tecnologie
 e nell’evoluzione del mio stack.
 
+
+---
+
+
 ## 🏅 Certificazioni
 
-[![HTML & CSS Certified](./assets/it-specialist-html-and-css.png)](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e/public_url "Verifica certificato su Credly")
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e/public_url">
+        <img src="./assets/it-specialist-html-and-css.png" width="200"/>
+      </a>
+      <br/>
+      <b>IT Specialist – HTML & CSS</b><br/>
+      Certiport · Luglio 2025<br/>
+      <a href="https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e">Verifica su Credly</a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c/public_url">
+        <img src="./assets/ITS-Badges_JavaScript.png" width="200"/>
+      </a>
+      <br/>
+      <b>IT Specialist – JavaScript</b><br/>
+      Certiport · Dicembre 2025<br/>
+      <a href="https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c">Verifica su Credly</a>
+    </td>
+  </tr>
+</table>
 
-- **HTML & CSS Certified** – Certiport  
-  [Verifica su Credly](https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e)  
-  Ottenuta: Luglio 2025  
 
 ---
 
-[![JavaScript Certified](./assets/it-specialist-javascript.png)](https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c/public_url "Verifica certificato su Credly")
-
-- **JavaScript Certified** – Certiport  
-  [Verifica su Credly](https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c)  
-  Ottenuta: Dicembre 2025
-  
----
 
 ## 🛠️ Competenze Tecniche
 
