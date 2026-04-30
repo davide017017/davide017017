@@ -97,7 +97,6 @@ e nell’evoluzione del mio stack.
       • KPI mensili<br>
       • PWA in sviluppo
     </td>
-
     <td width="25%" valign="top" align="left">
       <h3>🏨 HopySuite</h3>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -108,7 +107,6 @@ e nell’evoluzione del mio stack.
       • Automazioni cron<br>
       • Master/worker
     </td>
-
     <td width="25%" valign="top" align="left">
       <h3>🐙 OctoMind</h3>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -119,7 +117,6 @@ e nell’evoluzione del mio stack.
       • UI Bootstrap<br>
       • Deploy Render
     </td>
-
     <td width="25%" valign="top" align="left">
       <h3>🎬 VistoDa</h3>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
