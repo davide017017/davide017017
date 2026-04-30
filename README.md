@@ -87,18 +87,19 @@ e nell’evoluzione del mio stack.
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="left">
+    <td width="25%" valign="top" align="left">
 
 ### 🧠 Synapsy
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Laravel API](https://img.shields.io/badge/Laravel%20API-F55247?style=flat-square&logo=laravel&logoColor=white)
 
-App di gestione finanze personali  
+App gestione finanze  
 • CRUD transazioni  
 • KPI mensili  
 • PWA in sviluppo  
     </td>
-    <td width="33%" valign="top" align="left">
+
+    <td width="25%" valign="top" align="left">
 
 ### 🏨 HopySuite
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -107,9 +108,10 @@ App di gestione finanze personali
 Piattaforma multi-tenant  
 • Integrazioni API  
 • Automazioni cron  
-• Architettura master/worker  
+• Master/worker  
     </td>
-    <td width="33%" valign="top" align="left">
+
+    <td width="25%" valign="top" align="left">
 
 ### 🐙 OctoMind
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -119,6 +121,19 @@ GitHub API Explorer
 • Backend Python  
 • UI Bootstrap  
 • Deploy Render  
+    </td>
+
+    <td width="25%" valign="top" align="left">
+
+### 🎬 VistoDa
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+Storico film e serie TV  
+• Backend FastAPI  
+• Frontend statico  
+• Manifest PWA  
     </td>
   </tr>
 </table>
