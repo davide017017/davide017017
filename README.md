@@ -84,48 +84,52 @@ e nell’evoluzione del mio stack.
 
 
 ## 🚀 Progetti
+
 <table>
   <tr>
     <td width="25%" valign="top" align="left">
-### 🧠 Synapsy
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Laravel API](https://img.shields.io/badge/Laravel%20API-F55247?style=flat-square&logo=laravel&logoColor=white)
-
-App gestione finanze  
-• CRUD transazioni  
-• KPI mensili  
-• PWA in sviluppo  
+      <h3>🧠 Synapsy</h3>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel%20API-F55247?style=flat-square&logo=laravel&logoColor=white" />
+      <br><br>
+      App gestione finanze<br>
+      • CRUD transazioni<br>
+      • KPI mensili<br>
+      • PWA in sviluppo
     </td>
-    <td width="25%" valign="top" align="left">
-### 🏨 HopySuite
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
-Piattaforma multi-tenant  
-• Integrazioni API  
-• Automazioni cron  
-• Master/worker  
+    <td width="25%" valign="top" align="left">
+      <h3>🏨 HopySuite</h3>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+      <br><br>
+      Piattaforma multi-tenant<br>
+      • Integrazioni API<br>
+      • Automazioni cron<br>
+      • Master/worker
     </td>
-    <td width="25%" valign="top" align="left">
-### 🐙 OctoMind
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-GitHub API Explorer  
-• Backend Python  
-• UI Bootstrap  
-• Deploy Render  
+    <td width="25%" valign="top" align="left">
+      <h3>🐙 OctoMind</h3>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <br><br>
+      GitHub API Explorer<br>
+      • Backend Python<br>
+      • UI Bootstrap<br>
+      • Deploy Render
     </td>
-    <td width="25%" valign="top" align="left">
-### 🎬 VistoDa
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-Storico film e serie TV  
-• Backend FastAPI  
-• Frontend statico  
-• Manifest PWA  
+    <td width="25%" valign="top" align="left">
+      <h3>🎬 VistoDa</h3>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+      <br><br>
+      Storico film e serie TV<br>
+      • Backend FastAPI<br>
+      • Frontend statico<br>
+      • Manifest PWA
     </td>
   </tr>
 </table>
