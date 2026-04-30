@@ -23,34 +23,23 @@ e nell’evoluzione del mio stack.
 ---
 
 
-## 🏅 Certificazioni 
+## 🏅 Certificazioni
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="./assets/htmlCSS.jpg">
-        <img src="./assets/htmlCSS.jpg" width="230"/>
-      </a>
-      <br/>
-      <b>IT Specialist – HTML & CSS</b><br/>
+      <a href="./assets/htmlCSS.jpg"><img src="./assets/htmlCSS.jpg" width="230"></a><br>
+      <b>IT Specialist – HTML & CSS</b><br>
       Certiport · Luglio 2025
     </td>
-
     <td align="center" width="33%">
-      <a href="./assets/js.jpg">
-        <img src="./assets/js.jpg" width="230"/>
-      </a>
-      <br/>
-      <b>IT Specialist – JavaScript</b><br/>
+      <a href="./assets/js.jpg"><img src="./assets/js.jpg" width="230"></a><br>
+      <b>IT Specialist – JavaScript</b><br>
       Certiport · Dicembre 2025
     </td>
-
     <td align="center" width="33%">
-      <a href="./assets/php.jpg">
-        <img src="./assets/php.jpg" width="230"/>
-      </a>
-      <br/>
-      <b>IT Specialist – PHP</b><br/>
+      <a href="./assets/php.jpg"><img src="./assets/php.jpg" width="230"></a><br>
+      <b>IT Specialist – PHP</b><br>
       Certiport
     </td>
   </tr>
