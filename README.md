@@ -27,27 +27,34 @@ e nell’evoluzione del mio stack.
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e/public_url">
-        <img src="./assets/it-specialist-html-and-css.png" width="200"/>
+    <td align="center" width="33%">
+      <a href="./assets/htmlCSS.jpg">
+        <img src="./assets/htmlCSS.jpg" width="230"/>
       </a>
       <br/>
       <b>IT Specialist – HTML & CSS</b><br/>
-      Certiport · Luglio 2025<br/>
-      <a href="https://www.credly.com/badges/4c527832-86a7-4af1-b7e7-39d231effd3e">Verifica su Credly</a>
+      Certiport · Luglio 2025
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c/public_url">
-        <img src="./assets/ITS-Badges_JavaScript.png" width="200"/>
+
+    <td align="center" width="33%">
+      <a href="./assets/js.jpg">
+        <img src="./assets/js.jpg" width="230"/>
       </a>
       <br/>
       <b>IT Specialist – JavaScript</b><br/>
-      Certiport · Dicembre 2025<br/>
-      <a href="https://www.credly.com/badges/4be4a445-43f5-4f05-b55f-23fc5b88540c">Verifica su Credly</a>
+      Certiport · Dicembre 2025
+    </td>
+
+    <td align="center" width="33%">
+      <a href="./assets/php.jpg">
+        <img src="./assets/php.jpg" width="230"/>
+      </a>
+      <br/>
+      <b>IT Specialist – PHP</b><br/>
+      Certiport
     </td>
   </tr>
 </table>
-
 
 ---
 
