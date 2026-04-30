@@ -23,7 +23,7 @@ e nell’evoluzione del mio stack.
 ---
 
 
-## 🏅 Certificazioni
+## 🏅 Certificazioni 
 
 <table>
   <tr>
