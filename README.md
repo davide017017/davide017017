@@ -84,7 +84,6 @@ e nell’evoluzione del mio stack.
 
 
 ## 🚀 Progetti
-
 <table>
   <tr>
     <td width="25%" valign="top" align="left">
