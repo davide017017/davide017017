@@ -136,11 +136,13 @@ GitHub API Explorer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![APIs](https://img.shields.io/badge/API%20Integration-007ACC?style=flat-square)
 ![Cron Jobs](https://img.shields.io/badge/Cron%20Automation-6c757d?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-Mobile%20Adaptation-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 • Backend PHP su sistemi multi-tenant  
 • Integrazioni API e automazioni  
 • Ottimizzazione database MySQL  
 • Architettura cron / processi backend  
+• Adattamento versioni desktop in PWA/mobile  
 
 ---
 
